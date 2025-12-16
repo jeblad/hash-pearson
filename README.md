@@ -1,5 +1,10 @@
 # hash-pearson
 
+![stability-unstable](https://img.shields.io/badge/stability-experimental-orange.svg?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/jeblad/hash-pearson?style=for-the-badge)
+
+## Scope
+
 Pearson non-cryptographic hash function
 
 From the paper [Fast Hashing of Variable-Length Text Strings](http://cs.mwsu.edu/~griffin/courses/2133/downloads/Spring11/p677-pearson.pdf) ([archived](https://web.archive.org/web/20120704025921/http://cs.mwsu.edu/~griffin/courses/2133/downloads/Spring11/p677-pearson.pdf)) by _Peter K. Pearson_ with additional edits by [jeblad](mailto:jeblad@gmail.com) (Dec 13, 2025).
