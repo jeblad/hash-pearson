@@ -1,6 +1,6 @@
 # hash-pearson
 
-![stability-unstable](https://img.shields.io/badge/stability-experimental-orange.svg?style=for-the-badge)
+![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/jeblad/hash-pearson?style=for-the-badge)
 
 ## Scope
