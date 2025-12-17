@@ -11,7 +11,7 @@ From the paper [Fast Hashing of Variable-Length Text Strings](http://cs.mwsu.edu
 
 The core of the Pearson hash algorithm is fast execution on processors with integer registers. The implementation requires few instructions, and a lookup table containing permutated values from 0 to one less the size of the table. It produces a hash value that is strongly dependent on every byte of the input.
 
-The original version uses a lookup table of 256 values to be particularly efficient on processors with 8 bit registers, by completly exhausting the available space. This version is adapted to use larger registers and variant size of the lookup table.
+The original version uses a lookup table of 256 values to be particularly efficient on processors with 8 bit registers, by completely exhausting the available space. This version is adapted to use larger registers and variant size of the lookup table.
 
 The Pearson hash is particularly well suited when a completely uniform distribution is necessary, together with repeatability.
 

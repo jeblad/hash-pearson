@@ -1,0 +1,4 @@
+hash-pearson
+jeblad
+permutated
+stability-wip
